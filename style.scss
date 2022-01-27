@@ -1,0 +1,337 @@
+.asosiy1{
+    .offcanvas-body{
+        a{
+            font-size: 20px;
+            &:hover{
+                color: rgb(255, 174, 0);
+            }
+        }
+    }
+    .form-control{
+        position: absolute;
+        width: 300px;
+        height: 35px;
+        border-radius: 80px;
+        margin-left: 250px;
+        margin-top: -15px;
+        padding-left: 30px;
+        font-size: 15px;
+        color: rgb(197, 187, 187);
+        border: 1px solid rgb(197, 187, 187);
+    }
+}
+.asosiy2{
+    h1{
+        // text-align: center;
+        font-size: 60px;
+        margin-top: 90px;
+    }
+    span{
+        color: rgb(151, 143, 143);
+    }
+    .chap1{
+        float: right;
+        margin-right: 140px;
+        width: 800px;
+        margin-top: -500px;
+        // padding-right: 200px;
+        .kichik-div-chap{
+            float: left;
+            margin-left: -200px;
+            margin-top: -50px;
+            img{
+                width: 60px;
+                height: 60px;
+                border-radius: 50%;
+                // margin-right: 900px;
+            }
+        }
+        .kichik-div-ong{
+            float: right;
+            padding-left: -900px;
+            margin-top: 50px;
+            margin-right: 580px;
+            h2{
+                font-size: 20px;
+            }
+            h6{
+                font-size: 20px;
+                color: rgb(151, 143, 143);
+            }
+        }
+    }
+    img{
+        width: 600px;
+        height: 500px;
+        border-radius: 10px;
+        margin-left: 200px;
+        margin-top: 100px;
+    }
+}
+.asosiy3{
+    
+    .div1{
+        margin-top: 100px;
+        display: flex;
+        margin-left: 100px;
+        .div1-div{
+            margin-left: 30px;
+            width: 30%;
+            h4{
+                padding-top: 50px;
+            }
+            h2{
+                padding-top: 10px;
+            }
+            h5{
+                padding-top: 10px;
+            }
+            span{
+                color: rgb(151, 143, 143);
+            }
+            img{
+                width: 500px;
+                height: 300px;
+                border-radius: 10px;
+            }
+            .kichik-div-chap{
+                margin-top: 30px;
+                // float: left;
+                // margin-left: -200px;
+                // margin-top: -50px;
+                img{
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 50%;
+                    // margin-right: 900px;
+                }
+            }
+            .kichik-div-ong{
+                margin-top: 30px;
+                float: right;
+                // padding-left: 600px;
+                margin-top: -70px;
+                margin-right: 290px;
+                h2{
+                    font-size: 20px;
+                }
+                h6{
+                    font-size: 20px;
+                    color: rgb(151, 143, 143);
+                }
+            }
+        }
+    }
+}
+.carousel-item{
+    width: 1000px;
+    margin-left: 400px;
+    margin-top: 100px;
+    img{
+        width: 1000px;
+        height: 700px;
+    }
+    h4{
+        // padding-top: 50px;
+        width: 800px;
+    }
+    h2{
+        // padding-top: 10px;
+        width: 800px;
+    }
+    h5{
+        // padding-top: 10px;
+        width: 800px;
+    }
+    span{
+        color: rgb(151, 143, 143);
+    }
+    .kichik-div-chap{
+        margin-top: 30px;
+        // float: left;
+        // margin-left: -200px;
+        // margin-top: -50px;
+        img{
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            // margin-right: 900px;
+        }
+    }
+    .kichik-div-ong{
+        margin-top: 30px;
+        float: right;
+        // padding-left: 600px;
+        margin-top: -60px;
+        margin-right: 900px;
+        h2{
+            font-size: 20px;
+        }
+        h6{
+            font-size: 20px;
+            color: rgb(151, 143, 143);
+        }
+    }
+}
+.asosiy4{
+    // display: flex;
+    margin-top: 200px;
+    // border-top: 2px solid black;
+    float: left;
+    width: 50%;
+    .asosiy4-chap{
+        // width: 50%;
+        // float: left;
+        span{
+            color: rgb(151, 143, 143);
+        }
+        .chap1{
+            margin-bottom: 100px;
+            float: right;
+            padding-left: 110px;
+            width: 70%;
+            height: 200px;
+            margin-top: -200px;
+            // padding-right: -200px;
+            h1{
+                font-size: 25px;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+            h4{
+                margin-top: 40px;
+                font: 20px;
+                color: rgb(73, 69, 69);
+            }
+            .kichik-div-chap{
+                float: left;
+                // margin-left: -200px;
+                // margin-top: -50px;
+                img{
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 50%;
+                    // margin-right: 900px;
+                }
+            }
+            .kichik-div-ong{
+                // width: 300px;
+                float: right;
+                // margin-left: -110px;
+                margin-top: 5px;
+                margin-right: 380px;
+                h2{
+                    font-size: 15px;
+                }
+                h6{
+                    font-size: 15px;
+                    color: rgb(151, 143, 143);
+                }
+            }
+        }  
+        .ong1{
+            margin-left: 80px;
+             img{
+                width: 250px;
+                 height: 150px;
+                border-radius: 10px;
+            }
+        }  
+    } 
+}
+.asosiy5{
+    // display: flex;
+    margin-top: 200px;
+    // border-top: 2px solid black;
+    float: left;
+    width: 50%;
+    .asosiy4-chap{
+        // width: 50%;
+        // float: left;
+        span{
+            color: rgb(151, 143, 143);
+        }
+        .chap1{
+            margin-bottom: 100px;
+            float: right;
+            padding-left: 110px;
+            width: 70%;
+            height: 200px;
+            margin-top: -200px;
+            // padding-right: -200px;
+            h1{
+                font-size: 25px;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+            h4{
+                margin-top: 40px;
+                font: 20px;
+                color: rgb(73, 69, 69);
+            }
+            .kichik-div-chap{
+                float: left;
+                // margin-left: -200px;
+                // margin-top: -50px;
+                img{
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 50%;
+                    // margin-right: 900px;
+                }
+            }
+            .kichik-div-ong{
+                // width: 300px;
+                float: right;
+                // margin-left: -110px;
+                margin-top: 5px;
+                margin-right: 380px;
+                h2{
+                    font-size: 15px;
+                }
+                h6{
+                    font-size: 15px;
+                    color: rgb(151, 143, 143);
+                }
+            }
+        }  
+        .ong1{
+            margin-left: 80px;
+             img{
+                width: 250px;
+                 height: 150px;
+                border-radius: 10px;
+            }
+        }  
+    } 
+}
+.pastki-qisim{
+    display: inline;
+    width: 100%;
+    height: 900px;
+    margin-top: 100px;
+    margin-bottom: 500px;
+    .form-control{
+        width: 900px;
+        margin-left: 300px;
+        height: 50px;
+    }
+    .btn{
+        background-color: darkorange;
+        border: darkorange;
+        border-radius: 50px;
+        float: right;
+        width: 450px;
+        height: 50px;
+        margin-top: -50px;
+        margin-right: 200px;
+    }
+    h1{
+        // background-color: rgb(189, 176, 176);
+        padding-left: 300px;
+        // margin-left: -300px;
+        padding-top: 100px;
+        // text-align: center;
+    }
+    h2{
+        margin-top: 600px;
+    }
+}
